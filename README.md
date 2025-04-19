@@ -62,4 +62,29 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 # Handsson
- 3496d100b944f7589856603da8bb140a67c18bf7
+ Handsson is a Laravel-based Volunteer Management System designed to streamline the coordination between organizations, clients, and volunteers for various community-based projects and social initiatives.
+
+This platform allows for efficient project creation, volunteer assignment, status tracking, and feedback collection, providing a centralized solution for managing events and volunteer efforts. It's especially suited for NGOs, non-profits, and organizations running campaigns that require people coordination.
+
+🔧Key Features:
+   Role-Based Access:
+Owner – Has full administrative control.
+
+HR (Human Resources) – Manages volunteer applications and submits approved volunteers to the system.
+
+Assessment Body – Evaluates submitted volunteers.
+
+Event Manager – Assigns volunteers to projects and updates project statuses.
+
+Client – Registers projects and submits feedback after completion.
+
+Volunteer – Registers, participates in projects, and views project status.
+
+⚙️ Tech Stack:
+Frontend: HTML, CSS, Bootstrap, JavaScript
+
+Backend: Laravel (PHP Framework)
+
+Database: MySQL
+
+Tools: XAMPP 
